@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>_ / Atoms / Icons / Magnifier-Search</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M29.2982274,25.9101544 L23.0477725,19.6583996 L22.598638,20.1076275 L21.9062224,19.4150679 C25.4556324,14.6545001 25.0751157,7.88488535 20.7521963,3.56106692 C15.9988564,-1.18702231 8.30742839,-1.18702231 3.56032645,3.56106692 C-1.18677548,8.30915614 -1.18677548,16.008423 3.56032645,20.750273 C7.88324583,25.0740914 14.6514529,25.4609265 19.4110308,21.9045391 L20.1034465,22.5970987 L19.654312,23.0463266 L25.9047669,29.2980814 C26.8404637,30.2339729 28.3625305,30.2339729 29.2982274,29.2980814 C30.2339242,28.3684293 30.2339242,26.8522851 29.2982274,25.9101544 Z M18.1738629,18.1768523 C14.886448,21.4649509 9.55297604,21.4649509 6.26556116,18.1768523 C2.97814628,14.8887537 2.97814628,9.55417252 6.26556116,6.26607394 C9.55297604,2.97797535 14.886448,2.97797535 18.1738629,6.26607394 C21.4612777,9.55417252 21.4612777,14.8887537 18.1738629,18.1768523 Z" id="path-1"></path>
+    </defs>
+    <g id="_-/-Atoms-/-Icons-/-Magnifier-Search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="🎨-Icon-Color" transform="translate(1.000000, 1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#A699AB" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="_-/-Atoms-/-Colors-/-Black2" mask="url(#mask-2)" fill="#A699AB">
+                <g transform="translate(-1.000000, -1.000000)" id="Rectangle">
+                    <rect x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

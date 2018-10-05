@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>_ / Atoms / Icons / Star / Selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-63.4346466%" id="linearGradient-1">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="_-/-Atoms-/-Icons-/-Star-/-Selected" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero" points="31.5694005 12.2887556 20.220201 11.322039 15.7847002 1 11.3491995 11.3376312 0 12.2887556 8.61844633 19.6638681 6.02975549 30.6251874 15.7847002 24.8092954 25.539645 30.6251874 22.9667389 19.6638681"></polygon>
+    </g>
+</svg>

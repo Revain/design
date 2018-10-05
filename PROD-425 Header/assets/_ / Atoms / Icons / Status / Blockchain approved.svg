@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>_ / Atoms / Icons / Status / Blockchain approved</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="78.2766608%" y1="7.31287926%" x2="17.7892486%" y2="74.8277024%" id="linearGradient-1">
+            <stop stop-color="#A6CBB8" offset="0%"></stop>
+            <stop stop-color="#6D9B82" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="_-/-Atoms-/-Icons-/-Status-/-Blockchain-approved" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4,15.4225986 C4,18.1372735 5.91751636,21.5021912 9.70506772,25.4214142 C11.4254829,27.1968548 13.2668095,28.8576037 15.2165576,30.3923961 L16.009131,31 L16.8017045,30.3923961 C18.7395617,28.8622008 20.569866,27.2074237 22.2803226,25.4391804 C26.067874,21.5199574 28,18.1550397 28,15.4225986 L28,6.53950018 L15.9945214,1 L4,6.56792609 L4,15.4225986 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <path d="M5.17845024,7.22520692 L15.9937218,2.225 L26.8215498,7.24556607 L26.8215498,15.5968889 C26.8215498,20.0351833 19.7062395,26.7577742 16.0104637,29.775 C12.2979459,26.7781333 5.17845024,20.0555424 5.17845024,15.5968889 L5.17845024,7.22520692 Z" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+        <polygon id="Mask" fill="#FFFFFF" fill-rule="nonzero" points="12.0776038 13.9216623 10.3707035 15.8953703 14.9168761 20.3354403 22.3707035 11.078254 20.4541013 9.33544027 14.6994674 16.4823346"></polygon>
+    </g>
+</svg>

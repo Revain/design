@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="54px" viewBox="0 0 58 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-8.0%" y="-23.2%" width="116.0%" height="146.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.188235294   0 0 0 0 0.0470588235   0 0 0 0 0.258823529  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M2.92732101,15.6428571 L0.399390244,4.55542553 L4.82326908,5.61714286 L10.195122,0.452380952 L15.2509835,5.61714286 L19.9908537,4.40190476 L17.6087651,14.7080586 L17.4629229,15.6428571 L6.042845,15.6428571 L2.92732101,15.6428571 Z" id="path-2"></path>
+    </defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-Page-/-iPhone-5-/-SE" transform="translate(-54.000000, -2693.000000)">
+            <g id="Features" transform="translate(-149.000000, 1566.000000)">
+                <g id="Ranking" transform="translate(159.000000, 1139.000000)">
+                    <g id="Ranking-Pic">
+                        <g id="Review-page-screen" filter="url(#filter-1)" transform="translate(27.000000, 0.000000)">
+                            <g id="_--/-Organisms-/-Review-Advisor-/-Default-Copy-6" transform="translate(-87.000000, 0.000000)">
+                                <g id="Snippet" transform="translate(121.000000, 2.000000)">
+                                    <g id="medal/1-copy-5" transform="translate(0.096037, 0.857143)">
+                                        <g id="_-/-Atoms-/-Icons-/-Crown" transform="translate(1.699695, 3.000000)">
+                                            <mask id="mask-3" fill="white">
+                                                <use xlink:href="#path-2"></use>
+                                            </mask>
+                                            <use id="Mask" fill="#FAD961" xlink:href="#path-2"></use>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

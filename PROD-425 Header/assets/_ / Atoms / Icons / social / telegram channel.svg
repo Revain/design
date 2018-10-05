@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>_ / Atoms / Icons / social / telegram channel</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="-2.30926389e-13" y="2.84217094e-14" width="32" height="32" rx="2.66666667"></rect>
+        <circle id="path-3" cx="16" cy="15.6666667" r="13"></circle>
+        <path d="M13,26 C5.82029825,26 0,20.1797017 0,13 C0,5.82029825 5.82029825,0 13,0 C20.1797017,0 26,5.82029825 26,13 C26,20.1797017 20.1797017,26 13,26 Z M17.9463812,8.26913749 L10.2668032,15.0539319 C9.99695796,15.2923148 9.82260295,15.6124096 9.77329473,15.9593816 L9.51197536,17.80175 C9.4771612,18.0475612 9.11324663,18.0722774 9.04191312,17.8337595 L8.03585487,14.4741146 C7.92103918,14.0906761 8.08843136,13.681306 8.4455252,13.4722314 L17.7507114,8.02467689 C17.9176773,7.92702772 18.0900429,8.14218005 17.9463812,8.26913749 Z M21.2238741,5.03641607 L1.36505936,12.1592951 C0.875484915,12.3349267 0.879239763,12.9802517 1.37083605,13.150915 L6.2095357,14.8302909 L8.08262731,20.4306271 C8.20263804,20.7892753 8.67459358,20.9215361 8.98769016,20.6841381 L11.684971,18.6396689 C11.9677399,18.4253662 12.3700864,18.4148928 12.6652752,18.6141567 L17.5305476,21.8983858 C17.8654512,22.1245046 18.3398618,21.9539756 18.4240571,21.5772003 L21.9875525,5.63890741 C22.0795463,5.22789204 21.6452836,4.88522257 21.2238741,5.03641607 Z" id="path-5"></path>
+    </defs>
+    <g id="_-/-Atoms-/-Icons-/-social-/-telegram-channel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="_-/-Atoms-/-Colors-/-Black3">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#F5F5F5" xlink:href="#path-1"></use>
+            <g id="_-/-Atoms-/-Colors-/-Black4" mask="url(#mask-2)" fill="#F9F9F9">
+                <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+            </g>
+        </g>
+        <mask id="mask-4" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <g id="Mask"></g>
+        <g id="🎨-Icon-Color" mask="url(#mask-4)">
+            <g transform="translate(3.000000, 2.666667)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Mask" stroke="none" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <g id="_-/-Atoms-/-Colors-/-Black1" stroke="none" fill="none" mask="url(#mask-6)" fill-rule="evenodd">
+                    <g transform="translate(-3.000000, -3.000000)" fill="#634C6C" id="Rectangle">
+                        <rect x="0" y="0" width="32.3232323" height="32.3232323"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

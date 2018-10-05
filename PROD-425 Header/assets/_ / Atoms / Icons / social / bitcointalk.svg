@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>_ / Atoms / Icons / social / bitcointalk</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="-2.30926389e-13" y="2.84217094e-14" width="32" height="32" rx="2.66666667"></rect>
+        <path d="M9.05421687,0 C13.9869217,0 18,4.01307831 18,8.94578313 C18,13.878488 13.9869217,18 9.05421687,18 C4.12151205,18 0,13.878488 0,8.94578313 C0,4.01307831 4.12151205,0 9.05421687,0 Z M10.6807229,9.4 C11.7557349,9.4 11.7557349,11.026506 10.6807229,11.026506 L8.24096386,11.026506 L8.24096386,9.4 L10.6807229,9.4 Z M10.6807229,6 C11.7557349,6 11.7557349,7.62650602 10.6807229,7.62650602 L8.24096386,7.62650602 L8.24096386,6 L10.6807229,6 Z M10.6851883,12.7514534 C12.772592,12.7514534 13.9199835,10.2704353 12.4903932,8.68518834 C13.9199835,7.09994135 12.772592,4.61892328 10.6851883,4.61892328 L9.87193533,4.61892328 L9.87193533,3.80567027 C9.87193533,2.72924858 8.24542931,2.73364015 8.24542931,3.80567027 L8.24542931,4.61892328 L5.80567027,4.61892328 C4.72924858,4.61892328 4.73364015,6.24542931 5.80567027,6.24542931 L6.61892328,6.24542931 L6.61892328,11.1249474 L5.80567027,11.1249474 C4.72924858,11.1249474 4.73364015,12.7514534 5.80567027,12.7514534 L8.24542931,12.7514534 L8.24542931,13.5647064 C8.24542931,14.6411281 9.87193533,14.6367365 9.87193533,13.5647064 L9.87193533,12.7514534 L10.6851883,12.7514534 Z" id="path-3"></path>
+        <path d="M13,26 C5.82029825,26 0,20.1797017 0,13 C0,5.82029825 5.82029825,0 13,0 C20.1797017,0 26,5.82029825 26,13 C26,20.1797017 20.1797017,26 13,26 Z M13,24.2666667 C19.2224082,24.2666667 24.2666667,19.2224082 24.2666667,13 C24.2666667,6.77759182 19.2224082,1.73333333 13,1.73333333 C6.77759182,1.73333333 1.73333333,6.77759182 1.73333333,13 C1.73333333,19.2224082 6.77759182,24.2666667 13,24.2666667 Z" id="path-5"></path>
+    </defs>
+    <g id="_-/-Atoms-/-Icons-/-social-/-bitcointalk" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="_-/-Atoms-/-Colors-/-Black3">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#F5F5F5" xlink:href="#path-1"></use>
+            <g id="_-/-Atoms-/-Colors-/-Black4" mask="url(#mask-2)" fill="#F9F9F9">
+                <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+            </g>
+        </g>
+        <g id="🎨-Icon-Color" transform="translate(3.000000, 3.000000)">
+            <g transform="translate(4.000000, 4.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-3"></use>
+                <g id="_-/-Atoms-/-Colors-/-Black1" mask="url(#mask-4)" fill="#634C6C">
+                    <g transform="translate(-7.000000, -7.000000)" id="Rectangle">
+                        <rect x="0" y="0" width="32.3232323" height="32.3232323"></rect>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" xlink:href="#path-5"></use>
+                <g id="_-/-Atoms-/-Colors-/-Black1" mask="url(#mask-6)" fill="#634C6C">
+                    <g transform="translate(-3.000000, -3.000000)" id="Rectangle">
+                        <rect x="0" y="0" width="32.3232323" height="32.3232323"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="22px" viewBox="0 0 84 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>_ / Atoms / Icons / label-leader</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-1.8%" y="-9.7%" width="105.0%" height="119.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0.5" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.6 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="62.766728%" y1="50%" x2="114.313842%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#4354B9" offset="0%"></stop>
+            <stop stop-color="#649BFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M69.8333333,0 L61.2465052,8.2801557 C60.8489462,8.66351619 60.837436,9.29657654 61.2207965,9.69413557 C61.2292095,9.70286023 61.2377805,9.71143123 61.2465052,9.7198443 L69.8333333,18 L0,18 L0,0 L69.8333333,0 Z" id="path-3"></path>
+        <linearGradient x1="50%" y1="50%" x2="100%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#4354B9" offset="0%"></stop>
+            <stop stop-color="#649BFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-5.4%" y="-8.0%" width="115.2%" height="115.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0.5" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.141176471   0 0 0 0 0.117647059   0 0 0 0 0.0941176471  0 0 0 0.7 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="64.6796569%" x2="50%" y2="-39.0583906%" id="linearGradient-7">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <path d="M17.2842758,18.8640976 L16.7014168,18.8640976 L16.7014168,17.5057325 L6.17867247,17.5057325 L6.17867247,18.8640976 L5.59581341,18.8640976 C4.55244966,18.8640976 3.70356592,19.6966566 3.70356592,20.7199995 L3.70356592,21.9999999 L19.1764786,21.9999999 L19.1764786,20.7199557 C19.1765233,19.6966566 18.3276843,18.8640976 17.2842758,18.8640976 Z M18.551658,1.4096878 L18.551658,0 L4.32843123,0 L4.32843123,1.4096878 L0,1.4096878 L0,2.07626975 C0,3.65110193 0.502734372,5.13797107 1.4156553,6.26290754 C2.20546218,7.23619871 3.22161123,7.84514668 4.32843123,8.02229996 C4.32843123,11.2789488 6.60852153,13.3637787 9.68275339,14.1329623 L9.68275339,16.6126124 L13.1972912,16.6126124 L13.1972912,14.1329623 C16.2715677,13.3637787 18.551658,11.2789049 18.551658,8.02760316 C19.658478,7.84514668 20.6746271,7.23615488 21.4643893,6.26290754 C22.3772208,5.13797107 22.8799999,3.65114576 22.8799999,2.07626975 L22.8799999,1.4096878 L18.551658,1.4096878 Z M4.32843123,6.66226942 C2.80789436,6.29437614 1.61786624,4.71599388 1.39639499,2.74280788 L4.32843123,2.74280788 L4.32843123,6.66226942 Z M18.551658,6.66226942 L18.551658,2.74280788 L21.4836943,2.74280788 C21.2621783,4.71599388 20.0721502,6.29437614 18.551658,6.66226942 Z" id="path-8"></path>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-60.2335359%" id="linearGradient-10">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="_-/-Atoms-/-Icons-/-label-leader" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ribbon" filter="url(#filter-1)" transform="translate(14.000000, 4.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Mask" fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+            <g id="_-/-Atoms-/-Colors-/-Gradient-/-Blue-Horizontal" mask="url(#mask-4)" fill="url(#linearGradient-5)">
+                <g transform="translate(-14.000000, -4.000000)" id="Rectangle">
+                    <rect x="0" y="0" width="84" height="22"></rect>
+                </g>
+            </g>
+            <text id="LEADER" mask="url(#mask-4)" font-family="Roboto-BoldItalic, Roboto" font-size="10" font-style="italic" font-weight="bold" line-spacing="14" fill="#FFFFFF">
+                <tspan x="16" y="11.5">LEADER</tspan>
+            </text>
+        </g>
+        <g id="Trophy" filter="url(#filter-6)" transform="translate(1.000000, 0.000000)">
+            <mask id="mask-9" fill="white">
+                <use xlink:href="#path-8"></use>
+            </mask>
+            <use id="Mask" fill="url(#linearGradient-7)" fill-rule="nonzero" xlink:href="#path-8"></use>
+            <g id="_-/-Atoms-/-Colors-/-Gradient-/-Yellow" mask="url(#mask-9)" fill="url(#linearGradient-10)">
+                <g transform="translate(-1.000000, 0.000000)" id="Rectangle">
+                    <rect x="0" y="0" width="32" height="22"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

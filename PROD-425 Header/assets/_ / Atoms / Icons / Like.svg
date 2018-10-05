@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>_ / Atoms / Icons / Like</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,26 L5.45454545,26 L5.45454545,10.4 L0,10.4 L0,26 L0,26 Z M30,11.7 C30,10.27 28.7727273,9.1 27.2727273,9.1 L18.6681818,9.1 L19.9636364,3.159 L20.0045455,2.743 C20.0045455,2.21 19.7727273,1.716 19.4045455,1.365 L17.9590909,0 L8.98636364,8.567 C8.48181818,9.035 8.18181818,9.685 8.18181818,10.4 L8.18181818,23.4 C8.18181818,24.83 9.40909091,26 10.9090909,26 L23.1818182,26 C24.3136364,26 25.2818182,25.35 25.6909091,24.414 L29.8090909,15.249 C29.9318182,14.95 30,14.638 30,14.3 L30,11.817 L29.9863636,11.804 L30,11.7 L30,11.7 Z" id="path-1"></path>
+    </defs>
+    <g id="_-/-Atoms-/-Icons-/-Like" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="_-/-Atoms-/-Colors-/-Grey" transform="translate(1.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#81B498" xlink:href="#path-1"></use>
+            <g id="_-/-Atoms-/-Colors-/-Black2" mask="url(#mask-2)" fill="#A699AB">
+                <g transform="translate(-1.000000, -3.000000)" id="Rectangle">
+                    <rect x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

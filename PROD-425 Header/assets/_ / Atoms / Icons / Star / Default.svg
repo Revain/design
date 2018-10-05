@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="30px" viewBox="0 0 32 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>_ / Atoms / Icons / Star / Default</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="31.5694005 11.2887556 20.220201 10.322039 15.7847002 0 11.3491995 10.3376312 0 11.2887556 8.61844633 18.6638681 6.02975549 29.6251874 15.7847002 23.8092954 25.539645 29.6251874 22.9667389 18.6638681"></polygon>
+    </defs>
+    <g id="_-/-Atoms-/-Icons-/-Star-/-Default" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#A699AB" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="_-/-Atoms-/-Colors-/-Black2" mask="url(#mask-2)" fill="#A699AB">
+            <rect id="Rectangle" x="0" y="0" width="32" height="30"></rect>
+        </g>
+    </g>
+</svg>

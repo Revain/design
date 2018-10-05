@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>_ / Atoms / Icons / social / medium</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="-2.30926389e-13" y="2.84217094e-14" width="32" height="32" rx="2.66666667"></rect>
+        <path d="M8.24187453,11.9349262 L8.24187453,5.15797653 L15.0499394,15.1620873 L8.24187453,11.9349262 Z M0.8,1 L7.5,4.1 L7.5,19.1 L0.8,16 L0.8,1 Z M16.3,0.8 L23.1,4 L16.1,15.4 L11.2,8.2 L16.3,0.8 Z M16.69,15.94 L23.219,5.26 L23.23,19.04 L16.69,15.94 Z" id="path-3"></path>
+    </defs>
+    <g id="_-/-Atoms-/-Icons-/-social-/-medium" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="_-/-Atoms-/-Colors-/-Black3">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#F5F5F5" xlink:href="#path-1"></use>
+            <g id="_-/-Atoms-/-Colors-/-Black4" mask="url(#mask-2)" fill="#F9F9F9">
+                <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+            </g>
+        </g>
+        <g id="_-/-Atoms-/-Colors-/-Black3" transform="translate(4.000000, 6.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Mask" fill="#D8D8D8" xlink:href="#path-3"></use>
+            <g id="_-/-Atoms-/-Colors-/-Black1" mask="url(#mask-4)" fill="#634C6C">
+                <g transform="translate(-4.000000, -6.000000)" id="Rectangle">
+                    <rect x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

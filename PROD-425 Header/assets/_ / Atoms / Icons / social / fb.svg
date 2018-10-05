@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>_ / Atoms / Icons / social / fb</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="32" rx="2.66666667"></rect>
+        <path d="M4.50253293,10.6104218 L4.50253293,6.66392736 C4.50253293,3.46410729 7.09649961,0.870140612 10.2963197,0.870140612 L14.2467401,0.870140612 C14.4293385,0.870140612 14.6099641,0.878587708 14.7882472,0.89511245 L14.7882472,5.31679074 L11.1453528,5.31679074 C10.2565139,5.31679074 9.53596758,6.03733704 9.53596758,6.92617594 L9.53596758,10.6104218 L14.5694022,10.6104218 L13.9532938,15.5864351 L9.53596758,15.5864351 L9.53596758,27.8676592 L4.50253293,27.8676592 L4.50253293,15.5864351 L0.125633232,15.5864351 L0.125633232,10.6104218 L4.50253293,10.6104218 Z" id="path-3"></path>
+    </defs>
+    <g id="_-/-Atoms-/-Icons-/-social-/-fb" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Facebook">
+            <g id="_-/-Atoms-/-Colors-/-Black3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#F5F5F5" xlink:href="#path-1"></use>
+                <g id="_-/-Atoms-/-Colors-/-Black4" mask="url(#mask-2)" fill="#F9F9F9">
+                    <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+            <g id="🎨-Icon-Color" transform="translate(13.333333, 4.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Mask" fill="#B6ABBA" xlink:href="#path-3"></use>
+                <g id="_-/-Atoms-/-Colors-/-Black1" mask="url(#mask-4)" fill="#634C6C">
+                    <g transform="translate(-13.333333, -4.000000)" id="Rectangle">
+                        <rect x="0" y="0" width="47.761194" height="47.761194"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
